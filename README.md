@@ -2,6 +2,8 @@
 
 一个基于 Next.js 14 的全栈学习项目，集成 MediaPipe 姿态检测和 FFmpeg.wasm 视频处理。
 
+[在线体验](https://ai-pose-detection-psi.vercel.app/dashboard)
+
 ## 技术栈
 
 - Next.js 14 (App Router)
